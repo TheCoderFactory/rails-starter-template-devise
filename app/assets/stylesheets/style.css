@@ -1,4 +1,6 @@
-
+body {
+  margin-top: 50px;
+}
 
 // THESE ARE EXAMPLES YOU CAN MODIFY
 // create your own classes
@@ -30,7 +32,7 @@ main {
   }
 section {
   @extend .row;
-  margin-top: 20px;
+  /*margin-top: 20px;*/
   }
 
 // Styles for Devise views
